@@ -55,6 +55,7 @@
 
 #include <stdio.h>
 #include <string.h>            // for memcpy
+#include <stdlib.h>
 
 #ifdef LINUX
 #include <sys/types.h>

@@ -17,6 +17,7 @@
 
 #include <string.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "externs.h"
 #include "itemname.h"

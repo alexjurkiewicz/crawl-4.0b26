@@ -15,6 +15,7 @@
 #include "it_use3.h"
 
 #include <string.h>
+#include <stdlib.h>
 
 #include "externs.h"
 
